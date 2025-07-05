@@ -26,7 +26,7 @@
     "description": "",
     "price": 50.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      "images/bottle warmer.jpg"
     ],
     "categories": ["For the child and mother", "Electrical products", "Kitchen"]
   },{
@@ -34,7 +34,7 @@
     "description": "",
     "price": 150.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      
     ],
     "categories": ["For the child and mother"]
   },{
@@ -93,7 +93,7 @@
     "images": [
       "images/crab.jpg"
     ],
-    "categories": ["Toys"]
+    "categories": ["Toys", "Electrical products"]
   },{
     "name": "Toy keys",
     "description": "",
@@ -101,7 +101,7 @@
     "images": [
       "images/keys.jpg"
     ],
-    "categories": ["Toys"]
+    "categories": ["Toys", "Electrical products"]
   },{
     "name": "Carpet",
     "description": "",
