@@ -4,7 +4,13 @@
     "price": 100.00,
     "images": [
       "images/house 1.jpg",
-      "images/house 2.jpg"
+      "images/house 2.jpg",
+      "images/house 3.png",
+      "images/house 4.png",
+      "images/house 5.png",
+      "images/house 6.png",
+      "images/house 7.png",
+      "images/house 8.png"
     ],
     "categories": ["Toys"]
   },{
@@ -14,7 +20,7 @@
     "images": [
       "images/gates.jpg"
     ],
-    "categories": ["For the child and mother"]
+    "categories": ["For the child and mother", "Furniture"]
   },{
     "name": "Bottle warmer",
     "description": "",
@@ -22,7 +28,7 @@
     "images": [
       "images/espresso_cup_white.jpeg"
     ],
-    "categories": ["For the child and mother"]
+    "categories": ["For the child and mother", "Electrical products", "Kitchen"]
   },{
     "name": "Nursing pillow",
     "description": "",
@@ -36,17 +42,17 @@
     "description": "",
     "price": 100.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      
     ],
-    "categories": ["For the child and mother"]
+    "categories": ["For the child and mother", "Electrical products"]
   },{
     "name": "Avent pump",
     "description": "",
     "price": 300.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      
     ],
-    "categories": ["For the child and mother"]
+    "categories": ["For the child and mother", "Electrical products"]
   },{
     "name": "Playpen",
     "description": "",
@@ -54,13 +60,14 @@
     "images": [
       "images/Playpen.jpg"
     ],
-    "categories": ["Toys"]
+    "categories": ["Toys", "For the child and mother", "Furniture"]
   },{
     "name": "Cubes",
     "description": "",
     "price": 50.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      "images/cubes.jpg",
+      "images/cubes 2.jpg"
     ],
     "categories": ["Toys"]
   },{
@@ -68,7 +75,7 @@
     "description": "",
     "price": 20.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      "images/swing.jpg"
     ],
     "categories": ["Toys"]
   },{
@@ -76,7 +83,7 @@
     "description": "",
     "price": 40.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      "images/dog.jpg"
     ],
     "categories": ["Toys"]
   },{
@@ -84,7 +91,7 @@
     "description": "",
     "price": 40.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      "images/crab.jpg"
     ],
     "categories": ["Toys"]
   },{
@@ -92,7 +99,7 @@
     "description": "",
     "price": 20.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
+      "images/keys.jpg"
     ],
     "categories": ["Toys"]
   },{
@@ -100,7 +107,6 @@
     "description": "",
     "price": 20.00,
     "images": [
-      "images/espresso_cup_white.jpeg"
     ],
     "categories": ["Furniture"]
   },{
@@ -120,5 +126,30 @@
       "images/heater 2.jpg"
     ],
     "categories": ["Electrical products"]
+  },{
+    "name": "Glucometer needles",
+    "description": "",
+    "price": 0.00,
+    "images": [
+      "images/glucometer needles.jpg",
+      "images/glucometer needles 2.jpg"
+    ],
+    "categories": ["For the child and mother", "Other"]
+  },{
+    "name": "Glucometer and test strips for it",
+    "description": "",
+    "price": 0.00,
+    "images": [
+      "images/glucometer.jpg"
+    ],
+    "categories": ["Electrical products", "For the child and mother", "Other"]
+  },{
+    "name": "Children's books",
+    "description": "",
+    "price": 0.00,
+    "images": [
+      "images/books.jpg"
+    ],
+    "categories": ["Toys", "For the child and mother"]
   }
 ]
