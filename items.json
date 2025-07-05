@@ -1,6 +1,6 @@
 [{
     "name": "Busy-house",
-    "description": "",
+    "description": "A whole set of entertaining toys in one. \n The number 9 and one element from the sorter are missing. The rest is all in perfect condition.",
     "price": 100.00,
     "images": [
       "images/house 1.jpg",
@@ -15,7 +15,7 @@
     "categories": ["Toys"]
   },{
     "name": "Safe gates",
-    "description": "",
+    "description": "Brand: Dison \n White 'no-drill' safety gate with automatic child locking mechanism, double-sided opening \n Size: 69-76cm",
     "price": 100.00,
     "images": [
       "images/gates.jpg"
@@ -23,7 +23,7 @@
     "categories": ["For the child and mother", "Furniture"]
   },{
     "name": "Bottle warmer",
-    "description": "",
+    "description": "Brand: Beurer",
     "price": 50.00,
     "images": [
       "images/bottle warmer.jpg"
@@ -31,7 +31,7 @@
     "categories": ["For the child and mother", "Electrical products", "Kitchen"]
   },{
     "name": "Nursing pillow",
-    "description": "",
+    "description": "Nursing pillow with spare cover and pillow to support mother's back\n Brand: Mamasita\n Nursing pillow with spare cover and pillow to support for mother's back of Mamasita brand is really awesome and helped me great.",
     "price": 150.00,
     "images": [
       
@@ -47,7 +47,7 @@
     "categories": ["For the child and mother", "Electrical products"]
   },{
     "name": "Avent pump",
-    "description": "",
+    "description": "Electric breast pump Avent, used only a few times. Included: pump, instructions, bottle, nipples 1 (0m) and 2 (0m+). Nipples not used.",
     "price": 300.00,
     "images": [
       
@@ -63,7 +63,7 @@
     "categories": ["Toys", "For the child and mother", "Furniture"]
   },{
     "name": "Cubes",
-    "description": "",
+    "description": "Wooden building set. New, 2/3 cubes never used",
     "price": 50.00,
     "images": [
       "images/cubes.jpg",
@@ -80,7 +80,7 @@
     "categories": ["Toys"]
   },{
     "name": "Toy dog",
-    "description": "",
+    "description": "Wooden pull-dog. Brand new",
     "price": 40.00,
     "images": [
       "images/dog.jpg"
@@ -88,7 +88,7 @@
     "categories": ["Toys"]
   },{
     "name": "Toy crab",
-    "description": "",
+    "description": "Brand new",
     "price": 40.00,
     "images": [
       "images/crab.jpg"
@@ -96,7 +96,7 @@
     "categories": ["Toys", "Electrical products"]
   },{
     "name": "Toy keys",
-    "description": "",
+    "description": "Key- toy with  music, brand new.",
     "price": 20.00,
     "images": [
       "images/keys.jpg"
@@ -111,16 +111,17 @@
     "categories": ["Furniture"]
   },{
     "name": "Electric fireplace",
-    "description": "",
-    "price": 0.00,
+    "description": "Benaton",
+    "price": 100.00,
     "images": [
+      "images/fireplace 2.png",
       "images/fireplace.jpg"
     ],
     "categories": ["Electrical products"]
   },{
     "name": "Heater",
     "description": "",
-    "price": 0.00,
+    "price": 100.00,
     "images": [
       "images/heater.jpg",
       "images/heater 2.jpg"
@@ -146,7 +147,7 @@
   },{
     "name": "Children's books",
     "description": "",
-    "price": 0.00,
+    "price": 50.00,
     "images": [
       "images/books.jpg"
     ],
