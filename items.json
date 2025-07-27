@@ -1,6 +1,6 @@
 [{
     "name": "Busy-house",
-    "description": "A whole set of entertaining toys in one. <br>The number 9 and one element from the sorter are missing. The rest is all in perfect condition.",
+    "description": "A whole set of entertaining toys in one. <br>(The number 9 is in place)",
     "price": 100.00,
     "images": [
       "images/house 1.jpg",
@@ -13,14 +13,6 @@
       "images/house 8.png"
     ],
     "categories": ["Toys"]
-  },{
-    "name": "Safe gates",
-    "description": "Brand: Dison <br>White 'no-drill' safety gate with automatic child locking mechanism, double-sided opening <br>Size: 69-76cm",
-    "price": 100.00,
-    "images": [
-      "images/gates.jpg"
-    ],
-    "categories": ["For the child and mother", "Furniture"]
   },{
     "name": "Bottle warmer",
     "description": "Brand: Beurer",
@@ -156,11 +148,76 @@
     "categories": ["Toys", "For the child and mother"]
   },{
     "name": "Winter boots, size 22, boy",
-    "description": "Brand new<br>Book in Russian is with sensory elements",
+    "description": "State: used, good condition",
     "price": 70.00,
     "images": [
       
     ],
     "categories": ["For the child and mother"]
+  },{
+    "name": "iRobot Roomba 976",
+    "description": "State: 4 years old<br>Roomba 976 is a 900 series robot, a robot that communicates with you via your mobile device.<br>Using a dedicated app, you can control the robot to receive notifications about the cleaning status, the robot's maintenance status, and the ability to schedule cleaning.",
+    "price": 400.00,
+    "images": [
+      "images/27_07/robot 2.png",
+      "images/27_07/robot.jpg"
+    ],
+    "categories": ["Electrical products"]
+  },{
+    "name": "Vintage Espresso Coffee Maker",
+    "description": "State: 4 years old<br>15 bar pressure<br>Manual Cappuccino System<br>Ground coffee or pods<br>Dimensions (wxdxh) (mm):255x290x315.<br>- Weight (Kg):4.1.",
+    "price": 200.00,
+    "images": [
+      "images/27_07/coffee 2.png",
+      "images/27_07/coffee 1.jpg",
+      "images/27_07/coffee 2.jpg"
+    ],
+    "categories": ["Electrical products"]
+  },{
+    "name": "Juicer Philips",
+    "description": "State: Like new<br>0.5 litre<br>Automatic direction reversal<br>Integrated power cord storage<br>Drip-free ",
+    "price": 40.00,
+    "images": [
+      "images/27_07/juicer 1.jpg",
+      "images/27_07/juicer 2.jpg"
+    ],
+    "categories": ["Electrical products"]
+  },{
+    "name": "Bedside stand Ikea",
+    "description": "One piece for 20, 40 for 2 piecies<br>Depth :  40 cm<br>Height :  49 cm<br>Drawer depth (internal) :  34 cm<br>Drawer width (internal) :  30 cm<br>Storage capacity :  22 L",
+    "price": 20.00,
+    "images": [
+      "images/27_07/nightstand 4.png",
+      "images/27_07/nightstand.jpg"
+    ],
+    "categories": ["Furniture"]
+  },{
+    "name": "Shoe rack Ikea",
+    "description": "Width :  49 cm<br>Depth :  28 cm<br>Height :  93 cm",
+    "price": 40.00,
+    "images": [
+      "images/27_07/nightstand5.png",
+      "images/27_07/nightstand 2.jpg",
+      "images/27_07/nightstand 6.png"
+    ],
+    "categories": ["Furniture"]
+  },{
+    "name": "Changing table + chest of drawers Ikea",
+    "description": "State: Like new<br>When your child is in diapers, fold and secure the extension part to the changing table using the included fasteners. Safe for you and your baby.<br>Width :  78 cm<br>Minimum depth :  54 cm<br>Maximum depth :  79 cm<br>Drawer depth (internal) :  46 cm<br>Minimum height :  99 cm<br>Maximum height :  108 cm<br>Height of space under the furniture :  18 cm<br>Maximum load :  13.60 kg <br>Bed storage pocket and mattress included",
+    "price": 500.00,
+    "images": [
+      "images/27_07/changing.png",
+      "images/27_07/changing table.jpg"
+    ],
+    "categories": ["Furniture", "For the child and mother"]
+  },{
+    "name": "Armchair-sofa Ikea",
+    "description": "Hard sponge mattress, for daily use.<br>Width :  80 cm<br>Depth :  100 cm<br>Height :  87 cm<br>Seat depth :  60 cm<br>Seat height :  39 cm<br>Bed width :  80 cm<br>Bed length :  188 cm<br>",
+    "price": 500.00,
+    "images": [
+      "images/27_07/bed transformer.png",
+      "images/27_07/bed transformer.jpg"
+    ],
+    "categories": ["Furniture"]
   }
 ]
