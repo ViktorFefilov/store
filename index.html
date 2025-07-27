@@ -476,7 +476,8 @@
               itemDiv.appendChild(imageContainer);
               itemDiv.appendChild(createTextElement('h2', item.name));
               itemDiv.appendChild(createTextElement('p', item.description, true)); // Allow HTML in descriptions
-              itemDiv.appendChild(createTextElement('p', `₪${item.price.toFixed(2)}`));
+              const priceElem = createTextElement('p', `<strong>₪${item.price.toFixed(2)}</strong>`, true);
+              itemDiv.appendChild(priceElem);
               const leftArrow = document.createElement('button');
               leftArrow.innerHTML = '&#8678;';
               leftArrow.classList.add('arrow', 'left-arrow');
