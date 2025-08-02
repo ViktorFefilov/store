@@ -46,14 +46,6 @@
     ],
     "categories": ["For the child and mother", "Electrical products"]
   },{
-    "name": "Playpen",
-    "description": "State: like new<br>With mattress<br>High-quality camping playpen with a quick folding mechanism, including netting on all 4 sides of the playpen<br>Internal dimensions: 94 x 64 cm",
-    "price": 50.00,
-    "images": [
-      "images/Playpen.jpg"
-    ],
-    "categories": ["Toys", "For the child and mother", "Furniture"]
-  },{
     "name": "Cubes",
     "description": "Wooden building set. New, 2/3 cubes never used",
     "price": 50.00,
@@ -151,7 +143,8 @@
     "description": "State: used, good condition",
     "price": 70.00,
     "images": [
-      
+      "images/02_08/boots1.jpg",
+      "images/02_08/boots2.jpg"
     ],
     "categories": ["For the child and mother"]
   },{
@@ -216,7 +209,8 @@
     "price": 500.00,
     "images": [
       "images/27_07/bed transformer.png",
-      "images/27_07/bed transformer.jpg"
+      "images/27_07/bed transformer.jpg",
+      "images/02_08/Armchair-sofa Ikea.jpg"
     ],
     "categories": ["Furniture"]
   }
