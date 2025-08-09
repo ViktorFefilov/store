@@ -1,19 +1,4 @@
 [{
-    "name": "Busy-house",
-    "description": "A whole set of entertaining toys in one. <br>(The number 9 is in place)",
-    "price": 100.00,
-    "images": [
-      "images/house 1.jpg",
-      "images/house 2.jpg",
-      "images/house 3.png",
-      "images/house 4.png",
-      "images/house 5.png",
-      "images/house 6.png",
-      "images/house 7.png",
-      "images/house 8.png"
-    ],
-    "categories": ["Toys"]
-  },{
     "name": "Bottle warmer",
     "description": "Brand: Beurer",
     "price": 50.00,
@@ -148,25 +133,6 @@
     ],
     "categories": ["For the child and mother"]
   },{
-    "name": "iRobot Roomba 976",
-    "description": "State: 4 years old<br>Roomba 976 is a 900 series robot, a robot that communicates with you via your mobile device.<br>Using a dedicated app, you can control the robot to receive notifications about the cleaning status, the robot's maintenance status, and the ability to schedule cleaning.",
-    "price": 400.00,
-    "images": [
-      "images/27_07/robot 2.png",
-      "images/27_07/robot.jpg"
-    ],
-    "categories": ["Electrical products"]
-  },{
-    "name": "Vintage Espresso Coffee Maker",
-    "description": "State: used but in good condition <br>15 bar pressure<br>Manual Cappuccino System<br>Ground coffee or pods<br>Dimensions (wxdxh) (mm):255x290x315.<br>- Weight (Kg):4.1.",
-    "price": 200.00,
-    "images": [
-      "images/27_07/coffee 2.png",
-      "images/27_07/coffee 1.jpg",
-      "images/27_07/coffee 2.jpg"
-    ],
-    "categories": ["Electrical products"]
-  },{
     "name": "Juicer Philips",
     "description": "State: Like new<br>0.5 litre<br>Automatic direction reversal<br>Integrated power cord storage<br>Drip-free ",
     "price": 40.00,
@@ -176,31 +142,22 @@
     ],
     "categories": ["Electrical products"]
   },{
-    "name": "Bedside stand Ikea",
-    "description": "One piece for 20, 40 for 2 piecies<br>Depth :  40 cm<br>Height :  49 cm<br>Drawer depth (internal) :  34 cm<br>Drawer width (internal) :  30 cm<br>Storage capacity :  22 L",
-    "price": 20.00,
-    "images": [
-      "images/27_07/nightstand 4.png",
-      "images/27_07/nightstand.jpg"
-    ],
-    "categories": ["Furniture"]
-  },{
-    "name": "Shoe rack Ikea",
-    "description": "Width :  49 cm<br>Depth :  28 cm<br>Height :  93 cm",
-    "price": 40.00,
-    "images": [
-      "images/27_07/nightstand5.png",
-      "images/27_07/nightstand 2.jpg",
-      "images/27_07/nightstand 6.png"
-    ],
-    "categories": ["Furniture"]
-  },{
-    "name": "Changing table + chest of drawers Ikea",
+    "name": "Changing table + storage pocket Ikea + mattress",
     "description": "State: Like new<br>Foldable chaning table + fasteners incuded for safety.<br>Width :  78 cm<br>Minimum depth :  54 cm<br>Maximum depth :  79 cm<br>Drawer depth (internal) :  46 cm<br>Minimum height :  99 cm<br>Maximum height :  108 cm<br>Height of space under the furniture :  18 cm<br>Maximum load :  13.60 kg <br>Bed storage pocket and mattress included",
     "price": 500.00,
     "images": [
       "images/27_07/changing.png",
       "images/27_07/changing table.jpg"
+    ],
+    "categories": ["Furniture", "For the child and mother"]
+  },{
+    "name": "Baby bed Ikea+ mattress Ikea+ waterproof mattress protector Ikea+ breathable bumpers Little Punguine",
+    "description": "State: like new<br>Bed:<br>The bed base can be placed at two different heights.<br>One side of the crib can be removed when the child is big enough to get in and out of the bed.<br>Length :  123 cm<br>Width :  66 cm<br>Height :  80 cm<br>Bed width :  60 cm<br>Bed length :  120 cm<br>Maximum load :  20 kg<br>Height of space under baby bed :  13 cm<br>Mattress:<br>The outer cover is removable and machine washable at 60°C.<br>The mattress is double-sided: one side is wavy for medium-hard support, and the other side is smooth for harder support.<br>Mattress protector<br>The cover is removable and machine washable at 60°C.",
+    "price": 600.00,
+    "images": [
+      "images/27_07/kid bed.png",
+      "images/27_07/kid bed 2.png",
+      "images/27_07/bed.jpg"
     ],
     "categories": ["Furniture", "For the child and mother"]
   },{
@@ -213,5 +170,100 @@
       "images/02_08/Armchair-sofa Ikea.jpg"
     ],
     "categories": ["Furniture"]
+  },{
+    "name": "Olmeca Dark Chocolate",
+    "description": "35%, 700ml<br/>Price for one bottle",
+    "price": 50.00,
+    "images": [
+      "images/alcohol/olmeca_dark.jpg",
+      "images/alcohol/olmeca_dark_2.jpg"
+    ],
+    "categories": ["Alcohol"]
+  },{
+    "name": "Olmeca Blanco",
+    "description": "38%, 700ml",
+    "price": 50.00,
+    "images": [
+      "images/alcohol/olmeca_blanco.jpg"
+    ],
+    "categories": ["Alcohol"]
+  },{
+    "name": "Jose Cuervo, Tequila Silver",
+    "description": "38%, 750ml",
+    "price": 50.00,
+    "images": [
+      "images/alcohol/jose cuervo.jpg"
+    ],
+    "categories": ["Alcohol"]
+  },{
+    "name": "Patron Silver",
+    "description": "40%, 200ml",
+    "price": 25.00,
+    "images": [
+      "images/alcohol/patron_silver.jpg"
+    ],
+    "categories": ["Alcohol"]
+  },{
+    "name": "Chacha",
+    "description": "55%, 500ml",
+    "price": 40.00,
+    "images": [
+      "images/alcohol/chacha.jpg"
+    ],
+    "categories": ["Alcohol"]
+  },{
+    "name": "Balsam and sweet tincture from Glazov",
+    "description": "33%, 100ml<br/>24%, 100ml<br/>Price for both",
+    "price": 20.00,
+    "images": [
+      "images/alcohol/glazov.jpg",
+      "images/alcohol/glazov_2.jpg"
+    ],
+    "categories": ["Alcohol"]
+  }, {
+    "name": "Screen Philips 275E",
+    "description": "<b>AVAILABLE FROM 24th AUGUST</b><br>Maximum resolution: 2560x1440<br>Display ratio: 16:9<br>Height: approx. 46.1 cm<br>Width: approx. 61.3 cm<br>Depth: approx. 19.5 cm",
+    "price": 400.00,
+    "images": [
+      "images/27_07/monitor 2.jpg"
+    ],
+    "categories": ["Electrical products", "Available from 24th August"]
+  }, {
+    "name": "Bosch Full Integrated Dishwasher SRV2HKX39E",
+    "description": "<b>AVAILABLE FROM 24th AUGUST</b><br>2 years old",
+    "price": 1000.00,
+    "images": [
+      "images/27_07/dishwasher.jpg",
+      "images/27_07/dishwasher 2.jpg",
+      "images/27_07/dishwasher 3.jpg"
+    ],
+    "categories": ["Electrical products", "Available from 24th August"]
+  }, {
+    "name": "Electra EDR7991 7 kg front-loading condenser dryer",
+    "description": "2 years old",
+    "price": 600.00,
+    "images": [
+      "images/27_07/dry.jpg",
+      "images/27_07/dry2.jpg"
+    ],
+    "categories": ["Electrical products"]
+  }, {
+    "name": "Built-in oven 70 liters SAMSUNG NV70K1340BS",
+    "description": "",
+    "price": 500.00,
+    "images": [
+      "images/27_07/oven 2.jpg",
+      "images/27_07/oven.jpg"
+    ],
+    "categories": ["Electrical products"]
+  }, {
+    "name": "Mi Air Purifier 3H Xiaomi",
+    "description": "Filter needs to be replaced. Air dust analysis not working",
+    "price": 80.00,
+    "images": [
+      "images/27_07/purifier 2.jpg",
+      "images/27_07/purifier.jpg"
+    ],
+    "categories": ["Electrical products"]
   }
 ]
