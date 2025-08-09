@@ -79,15 +79,6 @@
     ],
     "categories": ["Furniture"]
   },{
-    "name": "Electric fireplace",
-    "description": "Vintage electric heating fireplace. A spectacular LED heating display that simulates heating in coals.<br>Powerful, safe heating<br>2 Heat up for your choice:<br>Basic heating 950W<br>Powerful 1850W heating<br>Also has fan mode",
-    "price": 100.00,
-    "images": [
-      "images/fireplace 2.png",
-      "images/fireplace.jpg"
-    ],
-    "categories": ["Electrical products"]
-  },{
     "name": "Heater",
     "description": "Oil heater<br>Thermostat to set the desired heat level<br>Thermal safety thermostat that stops the device from operating at maximum heat<br>Handles and wheels for easy movement of the device from place to place<br>Suitable for children's rooms<br>Compact structure without sharp corners<br>Space for storing the power cord<br>Light control<br>Several heat levels",
     "price": 100.00,

@@ -601,7 +601,7 @@
           let total = cartItems.reduce((sum, item) => sum + item.price * item.quantity, 0);
           const itemsMessage = cartItems.map(item => `${item.name} - ₪${item.price.toFixed(2)}`).join('%0A');
           const message = `Items in cart:%0A${itemsMessage}%0A%0ATotal: ₪${total.toFixed(2)}`;
-          const whatsappLink = `https://wa.me/972586885370?text=${message}`;
+          const whatsappLink = `https://wa.me/972586885366?text=${message}`;
           window.open(whatsappLink, '_blank');
         }
 
