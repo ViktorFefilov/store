@@ -40,14 +40,6 @@
     ],
     "categories": ["Toys"]
   },{
-    "name": "Swing",
-    "description": "",
-    "price": 20.00,
-    "images": [
-      "images/swing.jpg"
-    ],
-    "categories": ["Toys"]
-  },{
     "name": "Toy dog",
     "description": "Wooden pull-dog. Brand new",
     "price": 40.00,
@@ -220,40 +212,12 @@
     ],
     "categories": ["Electrical products", "Available from 24th August"]
   }, {
-    "name": "Bosch Full Integrated Dishwasher SRV2HKX39E",
-    "description": "<b>AVAILABLE FROM 24th AUGUST</b><br>2 years old",
-    "price": 1000.00,
-    "images": [
-      "images/27_07/dishwasher.jpg",
-      "images/27_07/dishwasher 2.jpg",
-      "images/27_07/dishwasher 3.jpg"
-    ],
-    "categories": ["Electrical products", "Available from 24th August"]
-  }, {
     "name": "Electra EDR7991 7 kg front-loading condenser dryer",
     "description": "2 years old",
     "price": 600.00,
     "images": [
       "images/27_07/dry.jpg",
       "images/27_07/dry2.jpg"
-    ],
-    "categories": ["Electrical products"]
-  }, {
-    "name": "Built-in oven 70 liters SAMSUNG NV70K1340BS",
-    "description": "",
-    "price": 500.00,
-    "images": [
-      "images/27_07/oven 2.jpg",
-      "images/27_07/oven.jpg"
-    ],
-    "categories": ["Electrical products"]
-  }, {
-    "name": "Mi Air Purifier 3H Xiaomi",
-    "description": "Filter needs to be replaced. Air dust analysis not working",
-    "price": 80.00,
-    "images": [
-      "images/27_07/purifier 2.jpg",
-      "images/27_07/purifier.jpg"
     ],
     "categories": ["Electrical products"]
   }
