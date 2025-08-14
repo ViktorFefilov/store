@@ -1,7 +1,7 @@
 [{
     "name": "Bottle warmer",
     "description": "Brand: Beurer",
-    "price": 50.00,
+    "price": 40.00,
     "images": [
       "images/bottle warmer.jpg"
     ],
@@ -9,7 +9,7 @@
   },{
     "name": "Nursing pillow",
     "description": "Nursing pillow with spare cover and pillow to support mother's back<br>Brand: Mamasita<br>Nursing pillow with spare cover and pillow to support for mother's back of Mamasita brand is really awesome and helped me great.",
-    "price": 150.00,
+    "price": 120.00,
     "images": [
       "images/27_07/pillow.jpg"
     ],
@@ -17,15 +17,15 @@
   },{
     "name": "Anabella pump",
     "description": "State: used but in good condition<br>Annabella is the only breast pump in the world that simulates the act of breastfeeding a baby and produces more milk in less time!<br>A single-sided breast pump with two blades, a closed system, portable and rechargeable.<br>Annabella imitates the tongue action that babies do while sucking. The pump's tongue action encourages the production of the hormones prolactin and oxytocin, thus increasing milk production and releasing it naturally and helping to create a pleasant pumping experience almost like breastfeeding.<br>The Annabella breast pump includes a soft silicone-wrapped breast shield and an adjustable size (ranging from 18 mm to 24 mm) to ensure maximum comfort during use. With 9 suction levels and 9 tongue speeds, Annabella also includes a night-time pumping light ring, making it easier for mothers to establish a pumping routine even at night. The BPA-free bottle holds up to 140 ml of milk and is safe and easy to assemble, dishwasher safe and refrigerator safe",
-    "price": 100.00,
+    "price": 0.00,
     "images": [
       "images/anabela.png"
     ],
-    "categories": ["For the child and mother", "Electrical products"]
+    "categories": ["For the child and mother", "Electrical products", "Free"]
   },{
     "name": "Avent pump",
     "description": "Electric breast pump Avent, used only a few times. Included: pump, instructions, bottle, nipples 1 (0m) and 2 (0m+). Nipples not used.",
-    "price": 300.00,
+    "price": 200.00,
     "images": [
       "images/27_07/avent.jpg"
     ],
@@ -37,14 +37,6 @@
     "images": [
       "images/cubes.jpg",
       "images/cubes 2.jpg"
-    ],
-    "categories": ["Toys"]
-  },{
-    "name": "Toy dog",
-    "description": "Wooden pull-dog. Brand new",
-    "price": 40.00,
-    "images": [
-      "images/dog.jpg"
     ],
     "categories": ["Toys"]
   },{
@@ -73,7 +65,7 @@
   },{
     "name": "Heater",
     "description": "Oil heater<br>Thermostat to set the desired heat level<br>Thermal safety thermostat that stops the device from operating at maximum heat<br>Handles and wheels for easy movement of the device from place to place<br>Suitable for children's rooms<br>Compact structure without sharp corners<br>Space for storing the power cord<br>Light control<br>Several heat levels",
-    "price": 100.00,
+    "price": 80.00,
     "images": [
       "images/heater 3.png",
       "images/heater.jpg",
@@ -83,7 +75,7 @@
   },{
     "name": "Glucometer needles",
     "description": "1/3 of the pack is used, valid till 3/2026",
-    "price": 40.00,
+    "price": 30.00,
     "images": [
       "images/glucometer needles 3.png",
       "images/glucometer needles.jpg",
@@ -93,23 +85,15 @@
   },{
     "name": "Glucometer and test strips for it",
     "description": "1/3 of the test strips used",
-    "price": 70.00,
+    "price": 50.00,
     "images": [
       "images/glucometer.jpg"
     ],
     "categories": ["Electrical products", "For the child and mother", "Other"]
   },{
-    "name": "Children's books",
-    "description": "Brand new<br>Book in Russian is with sensory elements",
-    "price": 50.00,
-    "images": [
-      "images/books.jpg"
-    ],
-    "categories": ["Toys", "For the child and mother"]
-  },{
     "name": "Winter boots, size 22, boy",
     "description": "State: used, good condition",
-    "price": 70.00,
+    "price": 50.00,
     "images": [
       "images/02_08/boots1.jpg",
       "images/02_08/boots2.jpg"
@@ -118,7 +102,7 @@
   },{
     "name": "Juicer Philips",
     "description": "State: Like new<br>0.5 litre<br>Automatic direction reversal<br>Integrated power cord storage<br>Drip-free ",
-    "price": 40.00,
+    "price": 30.00,
     "images": [
       "images/27_07/juicer 1.jpg",
       "images/27_07/juicer 2.jpg"
@@ -127,7 +111,7 @@
   },{
     "name": "Changing table + storage pocket Ikea + mattress",
     "description": "State: Like new<br>Foldable chaning table + fasteners incuded for safety.<br>Width :  78 cm<br>Minimum depth :  54 cm<br>Maximum depth :  79 cm<br>Drawer depth (internal) :  46 cm<br>Minimum height :  99 cm<br>Maximum height :  108 cm<br>Height of space under the furniture :  18 cm<br>Maximum load :  13.60 kg <br>Bed storage pocket and mattress included",
-    "price": 500.00,
+    "price": 450.00,
     "images": [
       "images/27_07/changing.png",
       "images/27_07/changing table.jpg"
@@ -136,7 +120,7 @@
   },{
     "name": "Baby bed Ikea+ mattress Ikea+ waterproof mattress protector Ikea+ breathable bumpers Little Punguine",
     "description": "State: like new<br>Bed:<br>The bed base can be placed at two different heights.<br>One side of the crib can be removed when the child is big enough to get in and out of the bed.<br>Length :  123 cm<br>Width :  66 cm<br>Height :  80 cm<br>Bed width :  60 cm<br>Bed length :  120 cm<br>Maximum load :  20 kg<br>Height of space under baby bed :  13 cm<br>Mattress:<br>The outer cover is removable and machine washable at 60°C.<br>The mattress is double-sided: one side is wavy for medium-hard support, and the other side is smooth for harder support.<br>Mattress protector<br>The cover is removable and machine washable at 60°C.",
-    "price": 600.00,
+    "price": 550.00,
     "images": [
       "images/27_07/kid bed.png",
       "images/27_07/kid bed 2.png",
@@ -146,13 +130,65 @@
   },{
     "name": "Armchair-sofa Ikea",
     "description": "Hard sponge mattress, for daily use.<br>Width :  80 cm<br>Depth :  100 cm<br>Height :  87 cm<br>Seat depth :  60 cm<br>Seat height :  39 cm<br>Bed width :  80 cm<br>Bed length :  188 cm<br>",
-    "price": 500.00,
+    "price": 400.00,
     "images": [
       "images/27_07/bed transformer.png",
       "images/27_07/bed transformer.jpg",
       "images/02_08/Armchair-sofa Ikea.jpg"
     ],
     "categories": ["Furniture"]
+  },{
+    "name": "EKET Cabinet 35x35x25",
+    "description": "One in white color with glass door - 60 nis<br>One in brown color - 30 nis<br>Two parts (white and brown) glued together - 50 nis",
+    "price": 30,
+    "images": [
+      "images/27_07/shelf 3.jpg",
+      "images/27_07/shelf 2.jpg",
+      "images/27_07/shelf 1.jpg"
+    ],
+    "categories": ["Furniture"]
+  },{
+    "name": "Side table LACK 55x55",
+    "description": "AVAILABLE FROM 24th AUGUST",
+    "price": 20,
+    "images": [
+      "images/27_07/table 1.jpg"
+    ],
+    "categories": ["Furniture", "Available from 24th August"]
+  },{
+    "name": "Children's chair MAMMUT",
+    "description": "AVAILABLE FROM 24th AUGUST",
+    "price": 30,
+    "images": [
+      "images/27_07/kid chair.jpg"
+    ],
+    "categories": ["Furniture", "Available from 24th August"]
+  },{
+    "name": "Table IKEA 118x74x73",
+    "description": "AVAILABLE FROM 24th AUGUST",
+    "price": 100,
+    "images": [
+      "images/27_07/table 2.jpg"
+    ],
+    "categories": ["Furniture", "Available from 24th August"]
+  },{
+    "name": "Wardrobe with mirrored doors PAX 100x60x236",
+    "description": "AVAILABLE FROM 24th AUGUST<br>4 drawers and 5 shelves",
+    "price": 700,
+    "images": [
+      "images/27_07/closet.jpg"
+    ],
+    "categories": ["Furniture", "Available from 24th August"]
+  },{
+    "name": "Closet BESTA 120x42x192",
+    "description": "AVAILABLE FROM 24th AUGUST<br>6 doors (4 with glass)",
+    "price": 700,
+    "images": [
+      "images/27_07/closet 2.jpg",
+      "images/27_07/closet 3.png",
+      "images/27_07/closet 4.png"
+    ],
+    "categories": ["Furniture", "Available from 24th August"]
   },{
     "name": "Olmeca Dark Chocolate",
     "description": "35%, 700ml<br/>Price for one bottle",
