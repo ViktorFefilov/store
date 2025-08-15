@@ -148,30 +148,6 @@
     ],
     "categories": ["Furniture"]
   },{
-    "name": "Side table LACK 55x55",
-    "description": "AVAILABLE FROM 24th AUGUST",
-    "price": 20,
-    "images": [
-      "images/27_07/table 1.jpg"
-    ],
-    "categories": ["Furniture", "Available from 24th August"]
-  },{
-    "name": "Children's chair MAMMUT",
-    "description": "AVAILABLE FROM 24th AUGUST",
-    "price": 30,
-    "images": [
-      "images/27_07/kid chair.jpg"
-    ],
-    "categories": ["Furniture", "Available from 24th August"]
-  },{
-    "name": "Table IKEA 118x74x73",
-    "description": "AVAILABLE FROM 24th AUGUST",
-    "price": 100,
-    "images": [
-      "images/27_07/table 2.jpg"
-    ],
-    "categories": ["Furniture", "Available from 24th August"]
-  },{
     "name": "Wardrobe with mirrored doors PAX 100x60x236",
     "description": "AVAILABLE FROM 24th AUGUST<br>4 drawers and 5 shelves",
     "price": 700,
@@ -244,14 +220,16 @@
     "description": "<b>AVAILABLE FROM 24th AUGUST</b><br>Maximum resolution: 2560x1440<br>Display ratio: 16:9<br>Height: approx. 46.1 cm<br>Width: approx. 61.3 cm<br>Depth: approx. 19.5 cm",
     "price": 400.00,
     "images": [
-      "images/27_07/monitor 2.jpg"
+      "images/27_07/monitor 2.jpg",
+      "images/27_07/monitor 8.png"
     ],
     "categories": ["Electrical products", "Available from 24th August"]
   }, {
     "name": "Electra EDR7991 7 kg front-loading condenser dryer",
-    "description": "2 years old",
+    "description": "2 years old<br>Washing capacity: 1-7 kg<br>Control panel in Hebrew.<br>Dimensions in cm:<br>Height: 85 cm.<br>Width: 60 cm.<br>Depth: 60 cm",
     "price": 600.00,
     "images": [
+      "images/27_07/dry3.png",
       "images/27_07/dry.jpg",
       "images/27_07/dry2.jpg"
     ],
