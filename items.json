@@ -63,16 +63,6 @@
     ],
     "categories": ["Furniture"]
   },{
-    "name": "Heater",
-    "description": "Oil heater<br>Thermostat to set the desired heat level<br>Thermal safety thermostat that stops the device from operating at maximum heat<br>Handles and wheels for easy movement of the device from place to place<br>Suitable for children's rooms<br>Compact structure without sharp corners<br>Space for storing the power cord<br>Light control<br>Several heat levels",
-    "price": 80.00,
-    "images": [
-      "images/heater 3.png",
-      "images/heater.jpg",
-      "images/heater 2.jpg"
-    ],
-    "categories": ["Electrical products"]
-  },{
     "name": "Glucometer needles",
     "description": "1/3 of the pack is used, valid till 3/2026",
     "price": 30.00,
@@ -99,15 +89,6 @@
       "images/02_08/boots2.jpg"
     ],
     "categories": ["For the child and mother"]
-  },{
-    "name": "Juicer Philips",
-    "description": "State: Like new<br>0.5 litre<br>Automatic direction reversal<br>Integrated power cord storage<br>Drip-free ",
-    "price": 30.00,
-    "images": [
-      "images/27_07/juicer 1.jpg",
-      "images/27_07/juicer 2.jpg"
-    ],
-    "categories": ["Electrical products"]
   },{
     "name": "Changing table + storage pocket Ikea + mattress",
     "description": "State: Like new<br>Foldable chaning table + fasteners incuded for safety.<br>Width :  78 cm<br>Minimum depth :  54 cm<br>Maximum depth :  79 cm<br>Drawer depth (internal) :  46 cm<br>Minimum height :  99 cm<br>Maximum height :  108 cm<br>Height of space under the furniture :  18 cm<br>Maximum load :  13.60 kg <br>Bed storage pocket and mattress included",
