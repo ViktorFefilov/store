@@ -33,7 +33,7 @@
   },{
     "name": "Cubes",
     "description": "Wooden building set. New, 2/3 cubes never used",
-    "price": 50.00,
+    "price": 40.00,
     "images": [
       "images/cubes.jpg",
       "images/cubes 2.jpg"
@@ -81,15 +81,6 @@
     ],
     "categories": ["Electrical products", "For the child and mother", "Other"]
   },{
-    "name": "Winter boots, size 22, boy",
-    "description": "State: used, good condition",
-    "price": 50.00,
-    "images": [
-      "images/02_08/boots1.jpg",
-      "images/02_08/boots2.jpg"
-    ],
-    "categories": ["For the child and mother"]
-  },{
     "name": "Changing table + storage pocket Ikea + mattress",
     "description": "State: Like new<br>Foldable chaning table + fasteners incuded for safety.<br>Width :  78 cm<br>Minimum depth :  54 cm<br>Maximum depth :  79 cm<br>Drawer depth (internal) :  46 cm<br>Minimum height :  99 cm<br>Maximum height :  108 cm<br>Height of space under the furniture :  18 cm<br>Maximum load :  13.60 kg <br>Bed storage pocket and mattress included",
     "price": 450.00,
@@ -101,7 +92,7 @@
   },{
     "name": "Baby bed Ikea+ mattress Ikea+ waterproof mattress protector Ikea+ breathable bumpers Little Punguine",
     "description": "State: like new<br>Bed:<br>The bed base can be placed at two different heights.<br>One side of the crib can be removed when the child is big enough to get in and out of the bed.<br>Length :  123 cm<br>Width :  66 cm<br>Height :  80 cm<br>Bed width :  60 cm<br>Bed length :  120 cm<br>Maximum load :  20 kg<br>Height of space under baby bed :  13 cm<br>Mattress:<br>The outer cover is removable and machine washable at 60°C.<br>The mattress is double-sided: one side is wavy for medium-hard support, and the other side is smooth for harder support.<br>Mattress protector<br>The cover is removable and machine washable at 60°C.",
-    "price": 550.00,
+    "price": 400.00,
     "images": [
       "images/27_07/kid bed.png",
       "images/27_07/kid bed 2.png",
@@ -118,34 +109,6 @@
       "images/02_08/Armchair-sofa Ikea.jpg"
     ],
     "categories": ["Furniture"]
-  },{
-    "name": "EKET Cabinet 35x35x25",
-    "description": "One in white color with glass door - 60 nis<br>One in brown color - 30 nis<br>Two parts (white and brown) glued together - 50 nis",
-    "price": 30,
-    "images": [
-      "images/27_07/shelf 3.jpg",
-      "images/27_07/shelf 2.jpg",
-      "images/27_07/shelf 1.jpg"
-    ],
-    "categories": ["Furniture"]
-  },{
-    "name": "Wardrobe with mirrored doors PAX 100x60x236",
-    "description": "AVAILABLE FROM 24th AUGUST<br>4 drawers and 5 shelves",
-    "price": 700,
-    "images": [
-      "images/27_07/closet.jpg"
-    ],
-    "categories": ["Furniture", "Available from 24th August"]
-  },{
-    "name": "Closet BESTA 120x42x192",
-    "description": "AVAILABLE FROM 24th AUGUST<br>6 doors (4 with glass)",
-    "price": 700,
-    "images": [
-      "images/27_07/closet 2.jpg",
-      "images/27_07/closet 3.png",
-      "images/27_07/closet 4.png"
-    ],
-    "categories": ["Furniture", "Available from 24th August"]
   },{
     "name": "Olmeca Dark Chocolate",
     "description": "35%, 700ml<br/>Price for one bottle",
@@ -213,6 +176,14 @@
       "images/27_07/dry3.png",
       "images/27_07/dry.jpg",
       "images/27_07/dry2.jpg"
+    ],
+    "categories": ["Electrical products"]
+  }, {
+    "name": "34-inch Screen Dell UltraSharp U3419W",
+    "description": "https://www.displayspecifications.com/en/model/4ad414fb",
+    "price": 800.00,
+    "images": [
+      "images/1551702812a12TA.jpg"
     ],
     "categories": ["Electrical products"]
   }
